@@ -1,11 +1,11 @@
-##Name
+**Name**
 
 Inseok Song
 
-##E-MAIL
+**E-MAIL**
 
 inseck1121@gmail.com
 
-##Github Account
+**Github Account**
 
 inseok1121
